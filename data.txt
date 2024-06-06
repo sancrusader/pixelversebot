@@ -1,0 +1,1 @@
+query_id=AAEf8v8wAgAAAB_y_zCV5sd_&user=%7B%22id%22%3A5117047327%2C%22first_name%22%3A%22S%20%7C%20%24Fox%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22SanCrusader%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1717646598&hash=9b51b328f963de5d2367c1e96402d6bd04d79435ccfa731c674b28944a7c2548
